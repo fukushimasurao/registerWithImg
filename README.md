@@ -1,5 +1,7 @@
 # registerWithImg
 
+# sqlフォルダに、sqlがあるので、PHPMyAdminにて'gs_db'の中にインポートしてください。
+
 - 基本は、`form`に
   - `enctype="multipart/form-data"`
   - `<input type="file" name="image" size="35">`
